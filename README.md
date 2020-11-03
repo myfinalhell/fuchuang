@@ -1,4 +1,4 @@
 # fuchuang
 
-无后缀的是linux版，.exe是windows版 
+getCPUAndMEMInfo是linux版，getCPUAndMEMInfo.exe是windows版 
 
